@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-tetvwt.wedang77.store/sitemap.xml
